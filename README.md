@@ -1,4 +1,4 @@
-# screengifs
+# repo-assets
 
 This repository contains image assets that I reference in other
 repository README files. Since some of these images can be quite large
